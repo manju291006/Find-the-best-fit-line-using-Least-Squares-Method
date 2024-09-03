@@ -1,4 +1,5 @@
 # Implementation of Univariate Linear Regression
+
 ## AIM:
 To implement univariate Linear Regression to fit a straight line using least squares.
 
@@ -58,6 +59,7 @@ The Y_Predicted value is:  [ 4.37677054 10.94334278 25.71813031  1.09348442 15.8
 ```
 
 ![image](https://github.com/user-attachments/assets/1a3bb929-ed66-4b3c-a230-9fa25009cf0a)
+
 
 ## Result:
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares using python programming.
