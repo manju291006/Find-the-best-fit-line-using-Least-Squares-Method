@@ -56,6 +56,7 @@ The m value is:  1.6416430594900853
 The b value is:  -8.75637393767706
 The Y_Predicted value is:  [ 4.37677054 10.94334278 25.71813031  1.09348442 15.86827195]
 ```
+
 ![image](https://github.com/user-attachments/assets/1a3bb929-ed66-4b3c-a230-9fa25009cf0a)
 
 ## Result:
